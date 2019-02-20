@@ -45,7 +45,7 @@
 | [슬로워크](https://slowalk.co.kr/) | O | O | [채용 공고](https://slowalk.co.kr/archives/category/news/recruit) / [블로그 글](http://slowalk.tistory.com/2547) |
 | [티켓몬스터](#티켓몬스터) |  | 월 2회 | [회사 소개](http://corp.ticketmonster.co.kr/) / [채용 공고](https://recruit.tmon.co.kr//recruit/list/000#page=1) |
 | [크리마랩](#크리마랩) | O | O | [채용 공고 및 상세 설명](https://www.rocketpunch.com/companies/cremafactory/jobs) |
-
+| [케어랩스](#케어랩스) | O | O | [회사소개](https://www.rocketpunch.com/companies/goodoc) / [채용공고](https://www.rocketpunch.com/companies/goodoc/jobs) |
 ---
 
 ## 기타 복지
@@ -293,3 +293,12 @@
 - 기본 연차 20일을 제공하며, 3년 차마다 추가로 10일의 유급 휴가를 제공, 일정만 조정하면 2주 연속으로 휴가를 사용하는 것도 허용
 - 식비 전액 지원, 고급 커피 제공, 간식 무한 제공
 - 해외 원격 근무 가능
+
+### 케어랩스
+- 탄력적 출퇴근 제도 : 09:00 ~ 10:00 출근 / 18:00 ~ 19:00 퇴근
+- 먼저간데이 & 늦게온데이 : 한달에 한번 5시 퇴근 혹은 12시 출근 할 수 있음!
+- 정말 눈치 주지 않는 연차 ( 정말 뭐라고 하는 사람없음. 심지어 프로젝트가 딜레이 되기도 함. ㅇ.ㅇ )
+- 주말 까페 공간 대관
+- 재택 근무 시행
+  - 코드 품질과 업무에 대한 검증이 된 개발자 월,금 출근 or 필요한 프로젝트성 재택근무
+  - 각 사업부 본부장 or 개발자는 CTO 컨펌으로 시행
